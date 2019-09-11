@@ -1,0 +1,19 @@
+.thanks{
+    align-content: center;
+    background: red;
+    border-style: solid;
+    border-color: blue;
+
+}
+.for{
+    align-content: center;
+    background:yellow;
+    border-style: solid;
+    border-color: green;
+}
+.this{
+    align-content: center;
+    background:light burlywood;
+    border-style: solid;
+    border-color: fuchsia;
+}
